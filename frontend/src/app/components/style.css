@@ -1,0 +1,674 @@
+.component {
+    height: 1024px;
+    width: 1440px;
+  }
+  
+  .component .overlap {
+    height: 1024px;
+    position: relative;
+  }
+  
+  .component .rectangle {
+    background-color: #ffffff;
+    height: 903px;
+    left: 853px;
+    position: absolute;
+    top: 50px;
+    width: 587px;
+  }
+  
+  .component .illustration {
+    height: 1024px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 899px;
+  }
+  
+  .component .overlap-group {
+    height: 1024px;
+    position: relative;
+    width: 897px;
+  }
+  
+  .component .div {
+    height: 1024px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 897px;
+  }
+  
+  .component .rectangle-2 {
+    background-color: #ffe5c8;
+    height: 903px;
+    left: 50px;
+    position: absolute;
+    top: 50px;
+    width: 803px;
+  }
+  
+  .component .img {
+    height: 499px;
+    left: 240px;
+    position: absolute;
+    top: 200px;
+    width: 430px;
+  }
+  
+  .component .vector {
+    height: 55px;
+    left: 531px;
+    position: absolute;
+    top: 208px;
+    width: 47px;
+  }
+  
+  .component .vector-2 {
+    height: 31px;
+    left: 646px;
+    position: absolute;
+    top: 537px;
+    width: 27px;
+  }
+  
+  .component .vector-3 {
+    height: 140px;
+    left: 776px;
+    position: absolute;
+    top: 884px;
+    width: 121px;
+  }
+  
+  .component .vector-4 {
+    height: 21px;
+    left: 148px;
+    position: absolute;
+    top: 755px;
+    width: 18px;
+  }
+  
+  .component .group {
+    height: 428px;
+    left: 301px;
+    position: absolute;
+    top: 96px;
+    width: 394px;
+  }
+  
+  .component .group-2 {
+    height: 472px;
+    left: 271px;
+    position: absolute;
+    top: 317px;
+    width: 362px;
+  }
+  
+  .component .overlap-group-wrapper {
+    background-image: url(https://c.animaapp.com/gs7GlUVi/img/rectangle-3@2x.png);
+    background-size: 100% 100%;
+    height: 245px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 215px;
+  }
+  
+  .component .overlap-group-2 {
+    height: 160px;
+    left: 11px;
+    position: relative;
+    top: 55px;
+    width: 204px;
+  }
+  
+  .component .vector-5 {
+    height: 141px;
+    left: 0;
+    position: absolute;
+    top: 19px;
+    width: 196px;
+  }
+  
+  .component .vector-6 {
+    height: 140px;
+    left: 9px;
+    position: absolute;
+    top: 0;
+    width: 195px;
+  }
+  
+  .component .text-wrapper {
+    color: #72104b;
+    font-family: "Nunito Sans", Helvetica;
+    font-size: 25px;
+    font-weight: 600;
+    left: 211px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 859px;
+    white-space: nowrap;
+    width: 479px;
+  }
+  
+  .component .vector-7 {
+    height: 29px;
+    left: 172px;
+    position: absolute;
+    top: 530px;
+    width: 35px;
+  }
+  
+  .component .vector-8 {
+    height: 2px;
+    left: 773px;
+    position: absolute;
+    top: 580px;
+    width: 1px;
+  }
+  
+  .component .vector-9 {
+    height: 3px;
+    left: 161px;
+    position: absolute;
+    top: 450px;
+    width: 2px;
+  }
+  
+  .component .vector-10 {
+    height: 3px;
+    left: 768px;
+    position: absolute;
+    top: 585px;
+    width: 2px;
+  }
+  
+  .component .vector-11 {
+    height: 3px;
+    left: 735px;
+    position: absolute;
+    top: 568px;
+    width: 2px;
+  }
+  
+  .component .vector-12 {
+    height: 3px;
+    left: 172px;
+    position: absolute;
+    top: 487px;
+    width: 2px;
+  }
+  
+  .component .group-3 {
+    height: 29px;
+    left: 325px;
+    position: absolute;
+    top: 163px;
+    width: 35px;
+  }
+  
+  .component .vector-13 {
+    height: 3px;
+    left: 751px;
+    position: absolute;
+    top: 236px;
+    width: 2px;
+  }
+  
+  .component .vector-14 {
+    height: 3px;
+    left: 138px;
+    position: absolute;
+    top: 741px;
+    width: 2px;
+  }
+  
+  .component .vector-15 {
+    height: 3px;
+    left: 96px;
+    position: absolute;
+    top: 337px;
+    width: 2px;
+  }
+  
+  .component .vector-16 {
+    height: 3px;
+    left: 694px;
+    position: absolute;
+    top: 922px;
+    width: 2px;
+  }
+  
+  .component .vector-17 {
+    height: 5px;
+    left: 709px;
+    position: absolute;
+    top: 256px;
+    width: 4px;
+  }
+  
+  .component .vector-18 {
+    height: 5px;
+    left: 96px;
+    position: absolute;
+    top: 761px;
+    width: 4px;
+  }
+  
+  .component .vector-19 {
+    height: 5px;
+    left: 749px;
+    position: absolute;
+    top: 370px;
+    width: 4px;
+  }
+  
+  .component .vector-20 {
+    height: 5px;
+    left: 136px;
+    position: absolute;
+    top: 874px;
+    width: 4px;
+  }
+  
+  .component .vector-21 {
+    height: 5px;
+    left: 283px;
+    position: absolute;
+    top: 102px;
+    width: 4px;
+  }
+  
+  .component .vector-22 {
+    height: 5px;
+    left: 768px;
+    position: absolute;
+    top: 808px;
+    width: 4px;
+  }
+  
+  .component .vector-23 {
+    height: 3px;
+    left: 441px;
+    position: absolute;
+    top: 132px;
+    width: 2px;
+  }
+  
+  .component .vector-24 {
+    height: 3px;
+    left: 514px;
+    position: absolute;
+    top: 138px;
+    width: 2px;
+  }
+  
+  .component .vector-25 {
+    height: 2px;
+    left: 266px;
+    position: absolute;
+    top: 573px;
+    width: 1px;
+  }
+  
+  .component .vector-26 {
+    height: 3px;
+    left: 253px;
+    position: absolute;
+    top: 606px;
+    width: 2px;
+  }
+  
+  .component .vector-27 {
+    height: 2px;
+    left: 699px;
+    position: absolute;
+    top: 120px;
+    width: 1px;
+  }
+  
+  .component .vector-28 {
+    height: 2px;
+    left: 751px;
+    position: absolute;
+    top: 108px;
+    width: 1px;
+  }
+  
+  .component .vector-29 {
+    height: 3px;
+    left: 801px;
+    position: absolute;
+    top: 169px;
+    width: 2px;
+  }
+  
+  .component .vector-30 {
+    height: 3px;
+    left: 638px;
+    position: absolute;
+    top: 131px;
+    width: 2px;
+  }
+  
+  .component .group-4 {
+    height: 89px;
+    left: 573px;
+    position: absolute;
+    top: 401px;
+    width: 142px;
+  }
+  
+  .component .group-5 {
+    height: 82px;
+    left: 224px;
+    position: absolute;
+    top: 385px;
+    width: 131px;
+  }
+  
+  .component .vector-31 {
+    height: 2px;
+    left: 623px;
+    position: absolute;
+    top: 46px;
+    width: 2px;
+  }
+  
+  .component .frame {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 36px;
+    height: 423px;
+    justify-content: center;
+    left: 999px;
+    position: absolute;
+    top: 290px;
+    width: 304px;
+  }
+  
+  .component .frame-2 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 32px;
+    margin-left: -57.99px;
+    margin-right: -57.99px;
+    margin-top: -41.12px;
+    position: relative;
+  }
+  
+  .component .frame-3 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 3px;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .component .text-wrapper-2 {
+    color: #515151;
+    font-family: "Nunito Sans", Helvetica;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .component .p {
+    color: #515151;
+    font-family: "Nunito Sans", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .component .frame-4 {
+    align-items: center;
+    border: 1px solid;
+    border-color: #e7e7e7;
+    border-radius: 5px;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 13px;
+    justify-content: center;
+    padding: 10px;
+    position: relative;
+    width: 420px;
+  }
+  
+  .component .image {
+    height: 25px;
+    object-fit: cover;
+    position: relative;
+    width: 25px;
+  }
+  
+  .component .text-wrapper-3 {
+    color: var(--gray-3);
+    font-family: "Nunito Sans", Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .component .or-sign-in-with {
+    color: transparent;
+    font-family: "Nunito Sans", Helvetica;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .component .span {
+    color: #dddddd;
+  }
+  
+  .component .text-wrapper-4 {
+    color: #a1a1a1;
+  }
+  
+  .component .frame-5 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 32px;
+    margin-bottom: -41.12px;
+    margin-left: -57.99px;
+    margin-right: -57.99px;
+    position: relative;
+  }
+  
+  .component .frame-6 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 24px;
+    position: relative;
+  }
+  
+  .component .frame-7 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 4px;
+    position: relative;
+  }
+  
+  .component .text-wrapper-5 {
+    color: var(--gray-3);
+    font-family: "Nunito Sans", Helvetica;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .component .div-wrapper {
+    align-items: center;
+    border: 1px solid;
+    border-color: #ded2d9;
+    border-radius: 5px;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 13px;
+    padding: 13px 10px;
+    position: relative;
+    width: 420px;
+  }
+  
+  .component .text-wrapper-6 {
+    color: var(--gray-5);
+    font-family: "Nunito Sans", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .component .frame-8 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 8px;
+    position: relative;
+  }
+  
+  .component .frame-9 {
+    align-items: center;
+    border: 1px solid;
+    border-color: #ded2d9;
+    border-radius: 5px;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 13px;
+    padding: 18px 10px 13px;
+    position: relative;
+    width: 420px;
+  }
+  
+  .component .text-wrapper-7 {
+    color: var(--gray-5);
+    font-family: "Nunito Sans", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .component .frame-10 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 222px;
+    position: relative;
+  }
+  
+  .component .checkbox {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 8px;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .component .check-instance {
+    background-color: #7f265b !important;
+    border: unset !important;
+    border-color: unset !important;
+    position: relative !important;
+  }
+  
+  .component .design-component-instance-node {
+    left: 1px !important;
+    top: 1px !important;
+  }
+  
+  .component .icons-navigation-others-10-check {
+    height: 8px !important;
+    left: 1px !important;
+    position: absolute !important;
+    top: 1px !important;
+    width: 8px !important;
+  }
+  
+  .component .text-wrapper-8 {
+    color: #a1a1a1;
+    font-family: "Nunito Sans", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .component .text-wrapper-9 {
+    color: #7f265b;
+    font-family: "Nunito Sans", Helvetica;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .component .frame-11 {
+    align-items: center;
+    background-color: #7f265b;
+    border-radius: 6px;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 13px;
+    justify-content: center;
+    padding: 13px 10px 12px;
+    position: relative;
+    width: 420px;
+  }
+  
+  .component .text-wrapper-10 {
+    color: #ffffff;
+    font-family: "Nunito Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 800;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+  }
+  
